@@ -1,5 +1,8 @@
 # merchant-category-code
-Categorised Merchant Codes
+
+**Work in progress.**
+
+### Categorised Merchant Codes
 
 Supporting the following methods;
 - JSON
